@@ -19,6 +19,13 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: API documentation
+    output: web, pdf
+    folderitems:
+    - title: Reference
+      url: /api_doc.html
+      output: web, pdf
+
   - title: Workflows
     output: web, pdf
     folderitems:
