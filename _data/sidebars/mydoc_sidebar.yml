@@ -19,11 +19,14 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: API documentation
+  - title: Introduction
     output: web, pdf
     folderitems:
-    - title: Reference
-      url: /api_doc.html
+    - title: Adminix overview
+      url: /adminix_overview_doc.html
+      output: web, pdf
+    - title: Getting started
+      url: /index.html
       output: web, pdf
 
   - title: Workflows
@@ -45,6 +48,16 @@ entries:
     folderitems:
     - title: Creating new provider
       url: /new_provider_doc.html
+      output: web, pdf
+
+  - title: API documentation
+    output: web, pdf
+    folderitems:
+    - title: Reference
+      url: /api_doc.html
+      output: web, pdf
+    - title: Authentification
+      url: /api_authentification.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
