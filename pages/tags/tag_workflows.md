@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "Workflows"
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+tagName: workflows
+permalink: tag_workflows.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

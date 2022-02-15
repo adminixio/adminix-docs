@@ -2,7 +2,7 @@
 title: Processes description
 keywords: processes
 last_updated: July 3, 2022
-tags: [workflows processes]
+tags: [workflows]
 summary: "The provider is a connection between Adminix and AWS account"
 sidebar: mydoc_sidebar
 permalink: processes_doc.html

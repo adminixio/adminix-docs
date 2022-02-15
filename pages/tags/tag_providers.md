@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "Providers"
+tagName: providers
 search: exclude
-permalink: tag_news.html
+permalink: tag_providers.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

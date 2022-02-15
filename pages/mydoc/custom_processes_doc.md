@@ -2,7 +2,7 @@
 title: Custom processes description
 keywords: processes
 last_updated: July 3, 2022
-tags: [workflows processes]
+tags: [workflows]
 summary: "The description of custom processes"
 sidebar: mydoc_sidebar
 permalink: custom_processes_doc.html

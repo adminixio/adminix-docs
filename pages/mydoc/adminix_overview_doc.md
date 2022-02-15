@@ -2,7 +2,7 @@
 title: Adminix overview
 keywords: api
 last_updated: July 3, 2022
-tags: [api]
+tags: [getting_started]
 summary: "This is an Adminix overview page"
 sidebar: mydoc_sidebar
 permalink: adminix_overview_doc.html

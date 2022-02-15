@@ -1,8 +1,8 @@
 ---
-title: "Navigation pages"
-tagName: navigation
+title: "API"
+tagName: api
 search: exclude
-permalink: tag_navigation.html
+permalink: tag_api.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

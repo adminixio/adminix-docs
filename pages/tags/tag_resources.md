@@ -2,7 +2,7 @@
 title: "Resources"
 tagName: resources
 search: exclude
-permalink: resources.html
+permalink: tag_resources.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
