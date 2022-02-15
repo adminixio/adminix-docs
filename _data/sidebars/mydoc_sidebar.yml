@@ -35,6 +35,9 @@ entries:
     - title: Processes description
       url: /processes_doc.html
       output: web, pdf
+    - title: Custom processes
+      url: /custom_processes_doc.html
+      output: web, pdf
 
   - title: Resources
     output: web, pdf
