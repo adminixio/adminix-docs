@@ -62,5 +62,8 @@ entries:
     - title: Authentification
       url: /api_authentification.html
       output: web, pdf
+    - title: Embeddable workflows
+      url: /embeddable_workflows_doc.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
