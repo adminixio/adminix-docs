@@ -9,7 +9,7 @@ permalink: new_provider_doc.html
 folder: mydoc
 ---
 
-1. To create a resource, you have to go to the providers page by clicking on the providers link in the left menu.
+1. To create a provider, you have to go to the providers page by clicking on the providers link in the left menu.
 2. Then you need to click on the "Add" button
 2. Fill up the form and click "save"
   - The name is a name of your provider
