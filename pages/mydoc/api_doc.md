@@ -11,8 +11,8 @@ folder: mydoc
 
 ## REST API documentation
 
-Please visit [Swagger docs](https://api.adminix.xyz/api-docs/index.html) to see REST API documentation page.
+Please visit [Swagger docs](https://api.adminix.io/api-docs/index.html) to see REST API documentation page.
 
 ## Graphql API documentation
 
-Please visit [Graphiql](https://api.adminix.xyz/api/v1/graphql) to see Graphql API documentation page.
+Please visit [Graphiql](https://api.adminix.io/api/v1/graphql) to see Graphql API documentation page.
