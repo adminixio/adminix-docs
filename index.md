@@ -17,7 +17,7 @@ First, you need to log in to adminix. Please go to [Login page](https://app.admi
 
 ### 2. Create a new workspace
 
-Please go to [New workspace page](https://app.adminix.xyz/workspaces/new) to create a new workspace
+Please go to [New workspace page](https://app.adminix.io/workspaces/new) to create a new workspace
 
 {% include image.html file="new_workspace.gif" alt="New workspace" caption="New workspace" %}
 
