@@ -13,7 +13,7 @@ Follow these instructions to create a new workflow
 
 ### 1. Login into Adminix
 
-First, you need to log in to adminix. Please go to [Login page](https://app.adminix.xyz/login)
+First, you need to log in to adminix. Please go to [Login page](https://app.adminix.io/login)
 
 ### 2. Create a new workspace
 
